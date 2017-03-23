@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Daily</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_liege">tmp</string>
+    <string name="lbl_klimm">tmp_k</string>
+    <string name="lbl_training1">training1</string>
+    <string name="lbl_training2">training2</string>
+    <string name="lbl_training3">training3</string>
+    <string name="lbl_training4">training4</string>
+    <string name="welcome">welcome</string>
+</resources>
